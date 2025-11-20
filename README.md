@@ -132,15 +132,6 @@ The backend includes:
 
 This project is licensed under the MIT License.
 
-## 👤 Author
-
-**Yashwatts**
-- GitHub: [@Yashwatts](https://github.com/Yashwatts)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
 ## ⚠️ Disclaimer
 
 This application provides general legal information and guidance. It is not a substitute for professional legal advice. Always consult with a qualified attorney for specific legal matters.
